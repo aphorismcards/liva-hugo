@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://linksatisi.netlify.app/"
+baseURL = "https://beylikduzunakliyat.netlify.app/"
 languageCode = "en-us"
-title = "Link Satış"
+title = "Beylikdüzü Nakliyat"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,33 +45,33 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "Hakkında"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "Blog"
   URL = "blog"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "İletişim"
   URL = "contact"
   weight = 3
 
   # footer menu
   [[menu.footer]]
-  name = "About"
+  name = "Hakkında"
   URL = "about"
   weight = 1
 
   [[menu.footer]]
-  name = "Post"
+  name = "Blog"
   URL = "blog"
   weight = 2
 
   [[menu.footer]]
-  name = "Contact"
+  name = "İletişim"
   URL = "contact"
   weight = 3
 
@@ -81,7 +81,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "İstanbul Beylikdüzü Nakliyat"
 author = "Admin"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -90,7 +90,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Izmir, Turkey"
 # copyright
-copyright = " 2021 [Google](https://google.com) "
+copyright = " 2021 [Beylikdüzü Evden Eve Nakliyat](https://www.kaplanlarnakliyat.com/hizmetler-Beylikduzu-Nakliyat---Beylikduzu-evden-eve-nakliyat) "
 
   # Preloader
   [params.preloader]
@@ -102,11 +102,6 @@ copyright = " 2021 [Google](https://google.com) "
   enable = true
 
 ############################ news letter ########################
-[params.newsletter]
-enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
-
 
 # cookies
 [params.cookies]
