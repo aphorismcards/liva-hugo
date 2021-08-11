@@ -88,7 +88,7 @@ googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "0124857985320"
 email = "demo@email.com"
-location = "Izmir, Turkey"
+location = "Istanbul, Turkey"
 # copyright
 copyright = " 2021 [Beylikdüzü Evden Eve Nakliyat](https://www.kaplanlarnakliyat.com/hizmetler-Beylikduzu-Nakliyat---Beylikduzu-evden-eve-nakliyat) "
 
@@ -100,13 +100,6 @@ copyright = " 2021 [Beylikdüzü Evden Eve Nakliyat](https://www.kaplanlarnakliy
   # search
   [params.search]
   enable = true
-
-############################ news letter ########################
-
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
 
 
 ############################# social site ########################
