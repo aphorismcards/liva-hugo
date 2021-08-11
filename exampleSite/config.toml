@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/"
+baseURL = "https://linksatisi.netlify.app/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "Link Satış"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -90,7 +90,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = " 2021 [Google](https://google.com) "
 
   # Preloader
   [params.preloader]
